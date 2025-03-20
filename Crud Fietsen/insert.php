@@ -1,5 +1,6 @@
 <?php
 include "functions.php";
+//auteur : Thierry Chatoorang
 
 // Test of er op de insert-knop is gedrukt 
 if(isset($_POST['btn_ins'])){

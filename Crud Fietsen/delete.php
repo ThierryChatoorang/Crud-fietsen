@@ -1,5 +1,6 @@
 <?php
 include "functions.php";
+//auteur : Thierry Chatoorang
 
 if(isset($_GET['id'])) {
     // Haal de fiets data op met de opgegeven fiets id

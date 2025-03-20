@@ -1,4 +1,5 @@
 <?php
+//auteur : Thierry Chatoorang
 include "functions.php";
 ?>
 <!DOCTYPE html>
